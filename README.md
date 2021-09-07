@@ -1,4 +1,4 @@
-# Bengluru Real Estate Price Prediction Engine
+# Bengaluru Real Estate Price Prediction Engine
 The intent of the project is to create a machine learning model. I have generated model using supervised learning and aim is to do predictive analysis to predict housing price. A house price prediction engine works on the basis of data collected , consisting of 243 independent features and 1 dependent feature.
 
 ## Modelling :
